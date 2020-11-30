@@ -1,3 +1,4 @@
+include ':toast-no-op'
 include ':toast'
 include ':app'
 rootProject.name = "JitpackTest"
