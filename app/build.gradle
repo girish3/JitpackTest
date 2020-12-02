@@ -41,7 +41,7 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
 
     // sample library dependency
-    implementation 'com.github.girish3:JitpackTest:v0.1'
+    implementation 'com.github.girish3.JitpackTest:toast-no-op:v0.2'
 
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
